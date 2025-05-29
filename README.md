@@ -51,11 +51,11 @@ Tenho interesse especial por desenvolvimento backend e lógica de programação,
 
 ### 📌 Sistema de Cadastro (Java)
 Aplicativo simples com cadastro de dados usando Java e conceitos de POO.  
-👉 [Link para o repositório](#) *(adicione aqui quando subir)*
+👉 [Link para o repositório](#) *(https://github.com/Abimael-bak/Sistema-Cadastro-Java)*
 
 ### 📌 Tela de Pesquisa Web (HTML/CSS)  
 Simulação de uma interface de pesquisa simples feita para praticar front-end.  
-👉 [Link para o repositório](#)
+👉 [Link para o repositório](#)*(https://github.com/Abimael-bak/Tela-Pesquisa-Web)*
 
 ---
 
