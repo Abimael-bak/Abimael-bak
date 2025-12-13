@@ -1,6 +1,6 @@
 # 👨‍💻 Abimael de Jesus Abreu
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)  
 💼 Atuando como Gerente de Farmácia desde 02/2022  
 🌐 Quijingue - Bahia  
 📧 abimaelabreu88@gmail.com  
