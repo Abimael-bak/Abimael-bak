@@ -12,10 +12,10 @@
 
 ## 🚀 Sobre mim
 
-Olá! Sou o Abimael, estudante apaixonado por tecnologia e aprendizado contínuo.  
-Estou me formando em ADS pela Unicesumar (previsão: 08/2025) e busco uma oportunidade como desenvolvedor júnior ou estagiário na área de TI.
+Olá! Sou o Abimael, apaixonado por tecnologia e aprendizado contínuo.  
+Sou graduado em ADS pela Unicesumar e busco uma oportunidade como desenvolvedor júnior ou estagiário na área de TI.
 
-Tenho interesse especial por desenvolvimento backend e lógica de programação, e venho estudando Java, C, SQL e outras tecnologias para crescer profissionalmente na área.
+Tenho interesse especial por desenvolvimento backend e lógica de programação, e venho estudando Java, C, SQL, SpringBoot e outras tecnologias para crescer profissionalmente na área.
 
 ---
 
