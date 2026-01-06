@@ -12,28 +12,52 @@
 
 ## 🚀 Sobre mim
 
-Olá! Sou o Abimael, apaixonado por tecnologia e aprendizado contínuo.  
-Sou graduado em ADS pela Unicesumar e busco uma oportunidade como desenvolvedor júnior ou estagiário na área de TI.
+Olá! Sou o Abimael, formado em Análise e Desenvolvimento de Sistemas pela Unicesumar e atualmente em transição de carreira para a área de Tecnologia da Informação.
 
-Tenho interesse especial por desenvolvimento backend e lógica de programação, e venho estudando Java, C, SQL, SpringBoot e outras tecnologias para crescer profissionalmente na área.
+Tenho foco em desenvolvimento backend, com ênfase em Java e Spring Boot, e venho consolidando meus conhecimentos por meio de cursos práticos, exercícios e projetos próprios, buscando minha primeira oportunidade como desenvolvedor júnior ou estagiário.
 
+Valorizo aprendizado contínuo, prática constante e compreensão sólida dos fundamentos — especialmente lógica de programação, orientação a objetos e persistência de dados.
 ---
 
-## 💡 Habilidades Técnicas
+💡 Habilidades Técnicas
+🔹 Linguagens
+Java
+C
+SQL
+HTML5
+CSS3
 
-- **Linguagens:** Java, C, HTML, CSS, SQL  
-- **Banco de Dados:** MySQL  
-- **Conceitos:** Estrutura de dados, lógica de programação, POO  
-- **Metodologias:** Conhecimento em metodologias ágeis (Scrum/Kanban)  
-- **IDEs:** VS Code, Eclipse, NetBeans  
-- **Ferramentas:** Git, GitHub
+🔹 Backend & Frameworks
+Spring Boot
+Spring Data JPA
+Hibernate
+JDBC
 
----
+🔹 Banco de Dados
+MySQL
+H2 (ambiente de testes)
 
-## 📚 Certificados
+🔹 Conceitos
+Programação Orientada a Objetos (POO)
+Estrutura de Dados (básico)
+Arquitetura em camadas (Controller, Service, Repository)
+Tratamento de exceções personalizadas
+API REST
 
-- **Algoritmo e Lógica de Programação** – Udemy – 30,5 horas  
-- **Java COMPLETO: Programação Orientada a Objetos + Projetos** – Udemy – 50,5 horas  
+🔹 Ferramentas & IDEs
+
+Git & GitHub
+Eclipse
+VS Code
+NetBeans
+
+🔹 Metodologias
+Noções de metodologias ágeis (Scrum / Kanban)
+
+📚 Certificações e Cursos
+Algoritmo e Lógica de Programação – Udemy (30,5h)
+Java COMPLETO: Programação Orientada a Objetos + Projetos – Udemy (50,5h)
+Spring Boot & JPA (em andamento) – Udemy
 
 ---
 
@@ -44,30 +68,49 @@ Tenho interesse especial por desenvolvimento backend e lógica de programação,
 - Controle de estoque e medicamentos  
 - Atendimento ao cliente  
 - Gestão de equipe e processos internos
-
+Experiência que contribuiu para desenvolvimento de responsabilidade, organização, tomada de decisão e trabalho sob pressão.
 ---
 
 ## 🧪 Projetos
 
-### 📌 Sistema de Cadastro (Java)
-Aplicativo simples com cadastro de dados usando Java e conceitos de POO.  
+📌 Sistema de Cadastro em Java
+
+Aplicação simples desenvolvida em Java, aplicando conceitos de:
+Programação Orientada a Objetos
+Estrutura de classes
+Encapsulamento
+
+🔗 Repositório:
 👉 [Link para o repositório](https://github.com/Abimael-bak/Sistema-Cadastro-Java) 
 
 
+📌 Workshop Spring Boot + JPA
+
+Projeto backend desenvolvido com base em aulas práticas, utilizando:
+Spring Boot
+Spring Data JPA
+Hibernate
+API REST
+
+Tratamento de exceções personalizadas
+
+Banco H2 para testes
+
+🔗 Repositório:
+👉[link para o repositório](https://github.com/Abimael-bak/workshop-springboo4-jpa)
 
 ---
-
-## 📈 Em andamento
-
-- Criar novos projetos para praticar lógica e estrutura de dados  
-- Contribuir em repositórios abertos  
-- Melhorar conhecimentos em frameworks Java
+📈 Em desenvolvimento
+Criar novos projetos backend com Java e Spring
+Consolidar conhecimentos em JPA e relacionamentos entre entidades
+Aprimorar boas práticas de código e organização de projetos
+Preparação para futuras certificações Java
 
 ---
+✉️ Contato
 
-## ✉️ Contato
-
-Se quiser trocar ideias, conversar ou tiver uma oportunidade para mim, entre em contato por e-mail, WhatsApp ou LinkedIn. Vou adorar saber mais!
+Fico à disposição para conversar, trocar experiências ou avaliar oportunidades na área de TI.
+Entre em contato por e-mail, WhatsApp ou LinkedIn.
 
 ---
 
